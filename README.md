@@ -39,4 +39,15 @@ Har du programmert en del på Micro:bit før? Eller kanskje ingen av de andre op
 2. **Lek med sensorer** -- Velg deg en sensor (snakk med en av oss om hvilke som finnes) og test den ut ved å programmere og utforske
 
 
-Du kan også velge oppgaver fra både [MakeCode](https://makecode.microbit.org/) eller [Kidsa Koder](https://oppgaver.kidsakoder.no/microbit)
+Du kan også velge oppgaver fra både [MakeCode](https://makecode.microbit.org/) eller [Kidsa Koder](https://oppgaver.kidsakoder.no/microbit).
+Snakk med oss, så finner vi en fin oppgave sammen!
+
+
+## Hvor kan jeg lære mer?
+
+* Lag programmer, spill, lyd og bilder ved hjelp av blokkbasert programmering med [Scratch](https://scratch.mit.edu/)
+* Utforsk flere oppgaver på mange tema på [Kidsa Koder](https://oppgaver.kidsakoder.no/)
+* Blir det ikke nok Micro:bit? [MakeCode](https://makecode.microbit.org/) har massevis av prosjekter vi ikke har vært innom her. 
+* Lyst til å lære et tekstbasert programmeringsspråk? Lær programmering gradvis med [Hedy](https://www.hedycode.com/). Hedy introduserer ulike konsepter innen programmering gradvis, og til slutt kan du programmeringsspråket Python
+* Lag musikk med [SonicPi](https://sonic-pi.net/), der du setter sammen små programmer som spiller musikk
+* Lyst til å lage spill? Du kan lage spill for [Roblox](https://www.roblox.com/), og utforske 3D-spill i [Unity](https://unity.com/). Finn noen tutorials på Youtube! 
