@@ -9,11 +9,17 @@ til ulik tid, og vi gleder oss til å utforske Micro:bit sammen med deg!
 
 ## Hva skal du gjøre?
 
+Jobb sammen i små grupper eller på egen hånd. Det kan være en fordel å jobbe sammen, men det går 
+helt fint å jobbe på egen hånd også. 
+
 Hver gruppe får utdelt en eller flere Micro:bit. Om du ikke har prøvd 
-Micro:bit tidligere, gjør gjerne begge oppvarmingsoppgavene, så blir du kjent med hvordan Micro:bit virker før du tar fatt på større oppgaver.  
+Micro:bit tidligere, gjør gjerne en eller begge oppvarmingsoppgavene, så blir du kjent med hvordan Micro:bit virker før du tar fatt på større oppgaver.  
 
 Oppgavene løser du på [MakeCode](https://makecode.microbit.org/). Hvert bilde er en oppgave, ved å klikke på oppgaven kommer du til 
 editoren (der du skal lage kode) samtidig som du får tips om hvordan du skal løse oppgaven. 
+
+Vi har lyst til at du skal ha det moro og lære litt om programmering samtidig. Finner du noe du synes er veldig spennende 
+å holde på med, bruk tid på det i stedet for å rase videre til neste oppgave! 
 
 
 ### Oppvarmingsoppgaver
