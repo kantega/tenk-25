@@ -55,7 +55,7 @@ Snakk med oss, så finner vi en fin oppgave sammen!
 * Utforsk flere oppgaver på mange tema på [Kidsa Koder](https://oppgaver.kidsakoder.no/)
 * Blir det ikke nok Micro:bit? [MakeCode](https://makecode.microbit.org/) har massevis av prosjekter vi ikke har vært innom her
 * Lyst til å lære et tekstbasert programmeringsspråk? Lær programmering gradvis med [Hedy](https://www.hedycode.com/). Hedy introduserer ulike konsepter innen programmering gradvis, og til slutt kan du programmeringsspråket Python
-* Lær koding fra grunnen og opp med [Tynker]https://www.tynker.com/
+* Lær koding fra grunnen og opp med [Tynker](https://www.tynker.com/)
 * Lag musikk med [SonicPi](https://sonic-pi.net/), der du setter sammen små programmer som spiller musikk
 * Lyst til å lage spill? Du kan lage spill for [Roblox](https://www.roblox.com/), og utforske 3D-spill i [Unity](https://unity.com/). Finn noen tutorials på Youtube!
 * Vitensentrene i rundt om i Norge har [undervisningsopplegg for Micro:bit](https://www.superbit.no/video/)
