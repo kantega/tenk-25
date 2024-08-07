@@ -7,34 +7,30 @@ aldri har prøvd å programmere! Hos oss skal du få lys til å blinke, få ulik
 til ulik tid, og vi gleder oss til å utforske Micro:bit sammen med deg! 
 
 
-## Hva skal du gjøre?
+## Hva kan jeg gjøre?
+- Oppgavene finner du på [MakeCode](https://makecode.microbit.org/). Hvert bilde er en oppgave, ved å klikke på oppgaven kommer du til 
+editoren (der du skal lage kode) samtidig som du får tips om hvordan du skal løse oppgaven.
 
-Jobb sammen i små grupper eller på egen hånd. Det kan være en fordel å jobbe sammen, men det går 
-helt fint å jobbe på egen hånd også. 
+- Jobb sammen i små grupper eller på egen hånd. Det kan være en fordel å jobbe sammen, men det går 
+helt fint å jobbe på egen hånd også.
 
-Hver gruppe får utdelt en eller flere Micro:bit. Om du ikke har prøvd 
-Micro:bit tidligere, gjør gjerne en eller begge oppvarmingsoppgavene, så blir du kjent med hvordan Micro:bit virker før du tar fatt på større oppgaver.  
-
-Oppgavene løser du på [MakeCode](https://makecode.microbit.org/). Hvert bilde er en oppgave, ved å klikke på oppgaven kommer du til 
-editoren (der du skal lage kode) samtidig som du får tips om hvordan du skal løse oppgaven. 
-
-Vi har lyst til at du skal ha det moro og lære litt om programmering samtidig. Finner du noe du synes er veldig spennende 
+- Vi har lyst til at du skal ha det moro og lære litt om programmering samtidig. Finner du noe du synes er veldig spennende 
 å holde på med, bruk tid på det i stedet for å rase videre til neste oppgave! 
 
 
 ### Oppvarmingsoppgaver
 
-1. **Flashing heart** -- Følg oppskriften og lag et blinkende hjerte (eller en annen figur) på Micro:bit. Her lærer du hvordan du lager et enkelt program og overfører det til datamaskinen. 
-2. **Smiley buttons** -- Bli kjent med knappene og hvordan du kan bruke disse til å styre oppførselen i programmet ditt
+1. **Flashing heart / Bankende hjerte** -- Følg oppskriften og lag et blinkende hjerte (eller en annen figur) på Micro:bit. Her lærer du hvordan du lager et enkelt program og overfører det til datamaskinen.
+2. **Micro chat / Mikro chat** -- Bruk radiosignaler for å sende og motta meldinger med micro:bits! Her lærer du om bruk av radio og knapper med micro:bits.
 
 
 ### Mer utfordrende oppgaver
 
-Disse oppgavene tar mer tid, det kan godt være du bare når å gjøre en av disse. Velg en du synes høres spennende ut! 
+Disse oppgavene tar mer tid, det kan godt være du bare rekker å gjøre én av disse. Velg en du synes høres spennende ut! 
 
-1. **Clap lights** -- Lag et program som skrur av og på lyset når du klapper! Her blir du kjent med mikrofonen, og konsepter som variabler.
-2. **7 seconds** -- Oppgaven ligger under "Games", her skal du lage et lite spill hvor det er om å gjøre å trykke på en knapp så tett opp til 7 sekunder som mulig. 
-3. **[Fireflies](https://makecode.microbit.org/projects/fireflies)** -- Samarbeid med andre i rommet og få Micro:bit-ene til å lyse opp ved hjelp av radiosignaler
+1. **Rock paper scissors / Stein saks papir​** -- Oppgaven ligger under "Games". Her kan du spille stein saks papir mot eller med micro:biten, ved å bruke akselerometeret (ristesensor) og logikk
+2. **Blow away / Blås vekk** -- Micro:biten er gjensøkt av et spøkelse! I denne oppgaven bruker vi mikrofonen, logikk-operatorene, matte og variabler for å blåse det vekk.
+3. **Reaction time / Reaksjonstid** -- Bruk utstyret tilgjengelig og lag et reaksjonsspill du kan spille mot venner!
 
 
 ### For de erfarne -- eller kanskje for de nysgjerrige?
@@ -42,8 +38,7 @@ Disse oppgavene tar mer tid, det kan godt være du bare når å gjøre en av dis
 Har du programmert en del på Micro:bit før? Eller kanskje ingen av de andre oppgavene var noe utfordrende? Da kan du velge en av disse oppgavene: 
 
 1. **Lag et musikkinstrument** -- Gjør Micro:bit-en din om til et musikk-instrument. Her får du helt frie tøyler. Hva slags lyd skal du lage? Hvordan skal du lage lyden? 
-2. **Lek med sensorer** -- Velg deg en sensor (snakk med en av oss om hvilke som finnes) og test den ut ved å programmere og utforske
-
+2. **Lek med sensorer** -- Velg deg en sensor fra Tinker-kitet (snakk med en av oss om hvilke som finnes) og test den ut ved å programmere og utforske
 
 Du kan også velge oppgaver fra både [MakeCode](https://makecode.microbit.org/) eller [Kidsa Koder](https://oppgaver.kidsakoder.no/microbit).
 Snakk med oss, så finner vi en fin oppgave sammen!
