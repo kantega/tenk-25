@@ -30,7 +30,7 @@ Disse oppgavene tar mer tid, det kan godt være du bare rekker å gjøre én av 
 
 1. **Rock paper scissors / Stein saks papir​** -- Oppgaven ligger under "Games". Her kan du spille stein saks papir mot eller med micro:biten, ved å bruke akselerometeret (ristesensor) og logikk
 2. **Blow away / Blås vekk** -- Micro:biten er gjensøkt av et spøkelse! I denne oppgaven bruker vi mikrofonen, logikk-operatorene, matte og variabler for å blåse det vekk.
-3. **Reaction time / Reaksjonstid** -- Bruk utstyret tilgjengelig og lag et reaksjonsspill du kan spille mot venner!
+3. **Reaction time / Reaksjonstid** -- Vær kreativ og bruk utstyret tilgjengelig for å lage et reaksjonsspill du kan spille mot venner!
 
 
 ### For de erfarne -- eller kanskje for de nysgjerrige?
