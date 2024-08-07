@@ -38,7 +38,7 @@ Disse oppgavene tar mer tid, det kan godt være du bare rekker å gjøre én av 
 Har du programmert en del på Micro:bit før? Eller kanskje ingen av de andre oppgavene var noe utfordrende? Da kan du velge en av disse oppgavene: 
 
 1. **Lag et musikkinstrument** -- Gjør Micro:bit-en din om til et musikk-instrument. Her får du helt frie tøyler. Hva slags lyd skal du lage? Hvordan skal du lage lyden? 
-2. **Lek med sensorer** -- Velg deg en sensor fra Tinker-kitet (snakk med en av oss om hvilke som finnes) og test den ut ved å programmere og utforske
+2. **Lek med sensorer** -- Velg deg utstyr fra Tinker-kitet (blant annet har vi en liten skjerm, en enkel spillkontroller, en motor og en krasj-sensor) og test den ut ved å programmere og utforske
 
 Du kan også velge oppgaver fra både [MakeCode](https://makecode.microbit.org/) eller [Kidsa Koder](https://oppgaver.kidsakoder.no/microbit).
 Snakk med oss, så finner vi en fin oppgave sammen!
