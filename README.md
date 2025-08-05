@@ -30,7 +30,7 @@ Vi inviterer til workshop hvor du kan utforske teknologi og koding på en kreati
 - Det er fremdeles mange spennende ting du kan prøve ut! Det er oppgaver også for viderekommende på [makecode](https://makecode.microbit.org/#)
 - Bl.a. Stein-saks-papir eller Banana Keyboard kan være artig å prøve ut
 - Vi har også et [Tinker-kit](https://tinkercademy.com/microbit) med masse spennende utstyr du kan prøve som en liten motor, en buzzer, en multi-led, en liten skjerm og flere sensorer
-- Kanskje du kan prøve å lage et enkelt musikkinstrument eller et enkelt spill?
+- Kanskje du kan prøve å lage et musikkinstrument eller et spill?
 
 ## Hvor kan jeg lære mer etter workshopen?
 * Lag programmer, spill, lyd og bilder ved hjelp av blokkbasert programmering med [Scratch](https://scratch.mit.edu/)
